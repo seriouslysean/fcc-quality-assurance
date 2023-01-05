@@ -4,7 +4,6 @@
   "description": "Boilerplate for the Quality Assurance and Testing with Chai challenges",
   "main": "server.js",
   "scripts": {
-    "serve": "ngrok http 3000",
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
