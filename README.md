@@ -2,6 +2,8 @@
 
 This is the boilerplate for the Quality Assurance with Chai lessons. Instructions for completing these lessons start at https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-and-testing-with-chai/
 
+All tests pass in the `feat/working-tests` branch.
+
 # Using Ngrok Locally
 
 1. Sign up for [ngrok](https://ngrok.com/)
